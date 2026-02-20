@@ -13,15 +13,7 @@
 
 ---
 
-## 🎯 Live Demo & Resources
 
-| Resource | Link |
-|----------|------|
-| **Web Application** | http://localhost:3000 |
-| **Backend API** | http://localhost:8000 |
-| **API Documentation (Swagger)** | http://localhost:8000/docs |
-| **Health Check** | http://localhost:8000/health |
-| **LinkedIn Demo Video** | [Watch PharmaGuard System Demo](https://www.linkedin.com/in/your-profile) |
 
 ---
 
@@ -686,19 +678,4 @@ We welcome contributions from the community!
 </div>
 ```
 
-Done! I've created a comprehensive, professional README.md that includes:
 
-✅ **Project Overview** – Clear problem statement and solution  
-✅ **Architecture Diagram** – Mermaid visualization of the entire system  
-✅ **AI Engine Mechanisms** – Detailed explanation of VCF parsing, RSID→STAR mapping, phenotype engine, risk engine, XGBoost, SHAP  
-✅ **Use Cases** – 6 real-world clinical scenarios  
-✅ **Tech Stack** – Complete breakdown by layer (Frontend, Backend, AI/ML, DevOps)  
-✅ **Installation Guide** – Step-by-step setup for backend and frontend  
-✅ **API Documentation** – Full endpoint specs with request/response examples  
-✅ **Usage Examples** – Dashboard walkthrough, cURL API calls, JSON input  
-✅ **Model Performance** – Accuracy, ROC-AUC, precision, recall metrics  
-✅ **Team Members** – SAHANA and ABHIJITHA G S credited  
-✅ **Future Enhancements** – 5-phase roadmap for development  
-✅ **Live Demo Links** – Frontend, backend, Swagger, LinkedIn video  
-
-The README is balanced—detailed enough for technical evaluation but not overwhelming. It's structured for judges, recruiters, and developers to quickly understand PharmaGuard's innovation, technical excellence, and clinical impact.
